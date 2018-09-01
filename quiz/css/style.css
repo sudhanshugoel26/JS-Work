@@ -1,0 +1,40 @@
+input:checked {
+  background: #000;
+  color: #888;
+}
+body {
+  background-color: #000000;
+  color: #779b79;
+  margin: 0 auto;
+  font-family: 'Source Code Pro',Ubuntu;
+  font-weight: bold;
+}
+#question {
+  color: #887317;
+  font-size: 2em;
+  font-family: 'Source Code Pro', Verdana, Arial, sans-serif;
+  margin: 25px;
+}
+#possibleAnswers {
+  display: block;
+  background-color: #333333;
+  width: 100%;
+  margin: 0 auto;
+}
+span {
+  display: inline-block;
+}
+button {
+  position: absolute;
+  right: 20%;
+  margin-top: 50px;
+}
+li {
+  list-style-type: none;
+  margin-left: 75px;
+  height: 3em;
+  line-height: 3em;
+}
+li:hover {
+  color: #aeb221;
+}

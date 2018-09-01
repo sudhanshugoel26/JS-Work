@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  background-color: #5BC962;
+}
+h1 {
+  color: #FFFFFF;
+  background-color: #2D8632;
+  margin: 0 auto;
+  text-align: center;
+  height: 75px;
+  line-height: 75px;
+  box-shadow: 0px 5px 5px #0E4312
+}
+p {
+  color: #0E4312;
+  margin: 5px 15px 5px 15px;
+}
+#game {
+  width: 25%;
+  margin: auto;
+  text-align: center;
+}
+input {
+  width: 50px;
+  border-radius: 5px;
+}
+#reply {
+  background-color: #92FF99;
+  margin: 15px auto;
+}
